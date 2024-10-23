@@ -1,0 +1,42 @@
+.block1 {
+    
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+h2{
+    font-size: 50px;
+    color: rgba(70,148,135,255);
+    font-weight: bold;
+    font-style: italic;
+    font-family:Arial, Helvetica, sans-serif;
+}
+p{
+    font-size: 20px;
+    color: rgba(70,148,135,255);
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 30px;
+    letter-spacing: 2px;
+}
+h3{
+    font-size: 50px;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.block2{
+    background-color: rgba(70,148,135,255);
+    padding: 70px;
+    margin: 20px;
+    border-radius: 8px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+p2{
+    font-size: 20px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 30px;
+    letter-spacing: 2px;
+}
