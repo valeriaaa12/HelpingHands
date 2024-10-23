@@ -24,7 +24,7 @@ h3{
     font-weight: bold;
     font-style: italic;
     font-family:"Bebas Neue", sans-serif;
-    padding-left: 50px;
+    padding-left: 200px;
     padding-top: 70px;
     letter-spacing: 5px;
 }
@@ -34,36 +34,36 @@ h4{
     font-weight: bold;
     font-style: italic;
     font-family:"Bebas Neue", sans-serif;
-    padding-right: 50px;
+    padding-right: 200px;
     padding-top: 70px;
     letter-spacing: 5px;
 }
 .block2{
     padding: 20px;
-    margin: 20px;
-    border-radius: 8px;
+    margin: 200px;
+    margin-top: 50px;
+    border-radius: 500px;
     background-color: rgba(70,148,135,255);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    height: 350px;
+    height: 400px;
 }
 #p2{
-    font-size: 20px;
+    font-size: 15px;
     color: white;
     font-family:"Bebas Neue", sans-serif;
     border-left-width: 100px;
     line-height: 30px;
     letter-spacing: 5px;
-    padding-left: 50px;
+    padding-left: 200px;
     padding-top: 25px;
 }
 #p3{
-    font-size: 20px;
+    font-size: 15px;
     color: white;
     font-family:"Bebas Neue", sans-serif;
-    border-left-width: 100px;
+    border-left-width: 150px;
     line-height: 30px;
     letter-spacing: 5px;
-    padding-right: 50px;
+    padding-right: 200px;
     padding-top: 25px;
 }
 .block-carousel {
@@ -81,10 +81,11 @@ h4{
 .block3{
     padding: 20px;
     margin: 20px;
-    border-radius: 8px;
+    margin-bottom: 100px;
+    border-radius: 500px;
     background-color:rgba(221,127,103,255);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    height: 400px;
+    height: 425px;
 }
 .Footer{
     padding: 0px;
